@@ -1,0 +1,51 @@
+{
+  "@@locale": "wo",
+  "appName": "Bitik Bi",
+  "@appName": {
+    "description": "Nom de l'application en wolof"
+  },
+  "welcome": "Dalal ak jàmm ci Bitik Bi !",
+  "@welcome": {
+    "description": "Message de bienvenue en wolof"
+  },
+  "loginPhoneLabel": "Lambar tiléfon",
+  "@loginPhoneLabel": {
+    "description": "Étiquette pour le champ de numéro de téléphone en wolof"
+  },
+  "sendOtpButton": "Yónni kóod bi",
+  "@sendOtpButton": {
+    "description": "Bouton pour envoyer le code OTP en wolof"
+  },
+  "otpLabel": "Kóod OTP",
+  "@otpLabel": {
+    "description": "Étiquette pour le champ OTP en wolof"
+  },
+  "verifyOtpButton": "Seetal",
+  "@verifyOtpButton": {
+    "description": "Bouton pour vérifier le code OTP en wolof"
+  },
+  "languageSelector": "Tànnal làkk wi",
+  "@languageSelector": {
+    "description": "Étiquette pour le sélecteur de langue en wolof"
+  },
+  "home": "Dëkk bi",
+  "@home": {
+    "description": "Onglet Dëkk bi"
+  },
+  "boutique": "Butik",
+  "@boutique": {
+    "description": "Onglet Butik"
+  },
+  "category": "Kategori",
+  "@category": {
+    "description": "Onglet Kategori"
+  },
+  "cart": "Paane",
+  "@cart": {
+    "description": "Onglet Paane"
+  },
+  "account": "Kont",
+  "@account": {
+    "description": "Onglet Kont"
+  }
+}

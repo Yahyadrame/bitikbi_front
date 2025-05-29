@@ -1,0 +1,51 @@
+{
+  "@@locale": "pt",
+  "appName": "Bitik Bi",
+  "@appName": {
+    "description": "Nome da aplicação"
+  },
+  "welcome": "Bem-vindo ao Bitik Bi!",
+  "@welcome": {
+    "description": "Mensagem de boas-vindas"
+  },
+  "loginPhoneLabel": "Número de telefone",
+  "@loginPhoneLabel": {
+    "description": "Rótulo para o campo de número de telefone"
+  },
+  "sendOtpButton": "Enviar código",
+  "@sendOtpButton": {
+    "description": "Botão para enviar o código OTP"
+  },
+  "otpLabel": "Código OTP",
+  "@otpLabel": {
+    "description": "Rótulo para o campo OTP"
+  },
+  "verifyOtpButton": "Verificar",
+  "@verifyOtpButton": {
+    "description": "Botão para verificar o código OTP"
+  },
+  "languageSelector": "Escolher idioma",
+  "@languageSelector": {
+    "description": "Rótulo para o seletor de idioma"
+  },
+  "home": "Início",
+  "@home": {
+    "description": "Aba Início"
+  },
+  "boutique": "Loja",
+  "@boutique": {
+    "description": "Aba Loja"
+  },
+  "category": "Categoria",
+  "@category": {
+    "description": "Aba Categoria"
+  },
+  "cart": "Carrinho",
+  "@cart": {
+    "description": "Aba Carrinho"
+  },
+  "account": "Conta",
+  "@account": {
+    "description": "Aba Conta"
+  }
+}
